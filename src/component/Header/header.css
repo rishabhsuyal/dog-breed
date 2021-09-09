@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    background-color: pink;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+.button{
+    height: 35px;
+    width: 200px;
+    margin: 10px;
+}
+
+
